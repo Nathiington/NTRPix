@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "170617189343",
+    "firebase_url": "https://ntrpix-bw.firebaseio.com",
+    "project_id": "ntrpix-bw",
+    "storage_bucket": "ntrpix-bw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170617189343:android:d4df7b811414f3f031ca6a",
+        "android_client_info": {
+          "package_name": "com.ntrpixbw.ntrpix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170617189343-g3ovnk2h1jcf5vd0ui4g3pklklctilil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuMcJfL9UcdU5PamjkDAotfExOKk2WhhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170617189343-g3ovnk2h1jcf5vd0ui4g3pklklctilil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170617189343:android:9b190437cd6cf0c331ca6a",
+        "android_client_info": {
+          "package_name": "com.ntrpix.ntrpix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170617189343-g3ovnk2h1jcf5vd0ui4g3pklklctilil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuMcJfL9UcdU5PamjkDAotfExOKk2WhhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170617189343-g3ovnk2h1jcf5vd0ui4g3pklklctilil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
