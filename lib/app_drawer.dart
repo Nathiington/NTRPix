@@ -1,16 +1,17 @@
 import 'package:flutter/material.dart';
 import 'routes.dart';
 import 'package:flutter/widgets.dart';
-import 'package:flutter/src/widgets/icon.dart';
 
 
 class AppDrawer extends StatelessWidget{
   @override 
   Widget build(BuildContext context){
     return Drawer(
+      elevation: 13.0,
       child: Column(
         children: <Widget>[
              UserAccountsDrawerHeader(
+               
                accountEmail: Text("ntrankopo@gmail.com"),
                accountName: Text("Nathan"),
                currentAccountPicture: CircleAvatar(
