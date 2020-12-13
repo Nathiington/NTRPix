@@ -42,32 +42,12 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  assets:
-    - piics/1.jpeg
+  assets: 
     - piics/2.jpg
-    - piics/3.jpeg
-    - piics/4.jpg
-    - piics/5.jpeg
-    - piics/6.jpg
     - piics/7.jpg
-    - piics/8.jpg
-    - piics/9.jpeg
+    - piics/8.jpg  
     - piics/10.jpg
-    - piics/11.jpeg
-    - piics/12.jpg
-    - piics/13.jpeg
-    - piics/14.jpg
-    - piics/15.jpeg
-    - piics/16.jpg
-    - piics/17.jpeg
-    - piics/18.jpg
-    - piics/19.jpeg
-    - piics/20.jpg
-    - piics/21.jpg
-    - piics/22.jpg
-    - piics/23.jpg
-    - piics/24.jpg
-    - piics/25.jpg
+
   
 
   # An image asset can refer to one or more resolution-specific "variants", see
